@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Localizar Celular SMS</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2167493564469787/7437228554</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_syncConnectionTypes_default">Teste</string>
+</resources>
